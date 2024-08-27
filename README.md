@@ -17,3 +17,7 @@ Ghi chú về một số thư mục trong dự án:
 - components: chứa các components tái sử dụng trong dự án
 - hooks: chứa các custome hooks được sử dụng
 - pages: chứa các components đóng vai trò là pages của các trang trên web
+- redux: chứa slice và store của redux toolkit
+- service: chứa các setup về xử lý api
+- template: chứa các component đóng vai trò là mẫu layout được sử dụng ở nhiều trang
+- utils: chứa các hàm được sử dụng ở nhiều phần trong dự án
